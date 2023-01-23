@@ -235,8 +235,7 @@ nav li {
     padding: 10px 15px 10px 15px;
     border-radius: 10px;
     width: 250px;
-    border: none;
-    box-shadow: 0 0 8px rgb(180, 180, 180);
+    border-color: rgb(180, 180, 180);
 }
 
 .password {
